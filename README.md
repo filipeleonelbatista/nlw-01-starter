@@ -32,6 +32,9 @@ O Ecoleta é um projeto que visa conectar pontos de coleta com pessoas que desej
 Feito com ♥ by Filipe with Rocketseat :wave: [Participe comunidade!](https://discordapp.com/invite/gCRAFhc)
 
 
+
+---
+
 <p align="center">  
     Entre em contato comigo
     <br />
